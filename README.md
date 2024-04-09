@@ -20,15 +20,16 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-
+The player learns 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-
+The main challenges in this game is the movement to avoid falling into the acid reseting your progress. Enemies are added in to restrict the player movement and pose as another threat to the player. I designed it in a way where if i played that part of the section and it felt boring i would do something to add difficulty to retain flow. It is balanced 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+In section 3 of my level i have created a maze-like structure inviting the player to find the key and the key door. I have added spikes to signify where not to go but not blocking off the path. 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -37,27 +38,37 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
-
-### 2.2. Checkpoints
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
-
-### 2.5. Keys
-
 ### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
+As my level first focuses on movement, it was only natural to have moving platforms go in tandemn with learning to move. Doing it in a safe environment allows the player to not feel bad for failiure.
 
 ### 2.11. Weapon Pickup (Staff)
+I choose the staff next rather than the gun because the staff can break breakables as well as monsters so i thought it would be better to encounter it first.
+### 2.7. Passthrough Platforms
+This wasn't always here. From my first design (DocImages/secondpart.png). I forgot to incorporate passthrough platforms so i decieded to add them after the breakables giving more layer to the game.
+### 2.10. Weapon Pickup (Gun)
+The gun was the last mechanic that the player learns because its only use is to kill enemies. I designed it in a way to safely kill the Chompers and Spitters safely.
+### 2.3. Chompers
+The first enemy introduced as it being the easiest to handle having a gun and staff. Only natural making it the first enemy.
+### 2.9. Spitters
+As the only other enemy i made it right after the Chomper to introduce the enemy types to the player.
+### 2.2. Checkpoints
+A checkpoint is introduced at the end of the first section.The ability to die is very low in the first section so i added the checkpoint after it where you can actually die.
+### 2.8. Spikes
+Spikes are introduced after the enemies because i place them as a lower level threat so the player doesn't need to have its own section for practice.
+### 2.1. Acid
+Acid is introduced with moving platforms increasing the difficulty as falling in it puts you back to the last checkpoint. The checkpoint isn't that far and isn't hard to get back where you got up too if you killed the enemies before it. 
+### 2.5. Keys
+A key is introduced above a one block with a spitter on it. The player has to kill the spitter to jump on the block to get to the key safely. 
+### 2.4. Health Pickups
+A health pickup is introduced after the acid giving the player a breathing room if the player made a few mistakes before hand.
+
+
+
+
+
+
+
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -67,11 +78,11 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
-
+(DocImages/Section1Molecule.png)
 ### 3.3.	Level Map – Section 2
-
+(DocImages/Section2Molecule.png)
 ### 3.4.	Level Map – Section 3
-
+(DocImages/Section3Molecule.png)
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
