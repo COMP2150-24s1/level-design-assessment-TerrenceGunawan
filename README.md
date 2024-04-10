@@ -79,9 +79,9 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-(DocImages/Section1Molecule.png)
-(DocImages/Section2Molecule.png)
-(DocImages/Section3Molecule.png)
+![This is the alt text for an image!](DocImages/Section1Molecule.png)
+![This is the alt text for an image!](DocImages/Section2Molecule.png)
+![This is the alt text for an image!](DocImages/Section3Molecule.png)
 ### 3.2. Level Map – Section 1
 
 ### 3.3.	Level Map – Section 2
@@ -92,11 +92,11 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 These images were early drafts of what my level would start to look like. This was the interative design for section 1. 
-![This is the alt text for an image!](DocImages/startspart.png)
+![This is the alt text for an image!](DocImages/startsection.png)
 I wanted this to 
 ![This is the alt text for an image!](DocImages/secondpart.png)
-(DocImages/thirdpart.png)
-(DocImages/fourthpart.png)
+![This is the alt text for an image!](DocImages/thirdpart.png)
+![This is the alt text for an image!](DocImages/fourthpart.png)
 
 
 
