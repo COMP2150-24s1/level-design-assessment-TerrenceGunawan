@@ -79,9 +79,9 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-![This is the alt text for an image!](DocImages/Section1Molecule.png)
-![This is the alt text for an image!](DocImages/Section2Molecule.png)
-![This is the alt text for an image!](DocImages/Section3Molecule.png)
+![This is the alt text for an image!](DocImages/Section1Molecule.PNG)
+![This is the alt text for an image!](DocImages/Section2Molecule.PNG)
+![This is the alt text for an image!](DocImages/Section3Molecule.PNG)
 ### 3.2. Level Map – Section 1
 
 ### 3.3.	Level Map – Section 2
