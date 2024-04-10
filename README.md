@@ -83,20 +83,32 @@ No additional words are necessary for this section (any words should only be wit
 ![This is the alt text for an image!](DocImages/Section2Molecule.PNG)
 ![This is the alt text for an image!](DocImages/Section3Molecule.PNG)
 ### 3.2. Level Map – Section 1
+![This is the alt text for an image!](DocImages/1.PNG)
+![This is the alt text for an image!](DocImages/2.PNG)
 
 ### 3.3.	Level Map – Section 2
-
+![This is the alt text for an image!](DocImages/4.PNG)
+![This is the alt text for an image!](DocImages/5.PNG)
 ### 3.4.	Level Map – Section 3
+![This is the alt text for an image!](DocImages/6.PNG)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 These images were early drafts of what my level would start to look like. This was the interative design for section 1. 
 ![This is the alt text for an image!](DocImages/startsection.png)
-I wanted this to 
+The very beginning i wanted it to be movement based so that the later stages would be easier.You have to take the moving platform to go across as it is too high to jump. Through my iteration i added steps on the bottom level to make sure that the player could repeat it if they fail.
 ![This is the alt text for an image!](DocImages/secondpart.png)
+This section introduced the staff as it continues after the reward. The breakable objects were a safe way to introduce mechanics. I ended up removeing the combination of attack and jumping because i read in the design goals that they had to be individually introduced.The current iteration the staff is introduced breaking 6 possible breakables with only 2 needed to pass.Reinforcing the staff and its effectsl.
 ![This is the alt text for an image!](DocImages/thirdpart.png)
+As you acquire the staff, the gun is next and the gun's only use is to kill enemies whereas the staff can break and kill things. The design you see in the image it is possible that the player takes damage. The current design the chomper can't walk to hurt the player unless they walk into the chomper and the spitter can be easily shot as they placed at the same height of the gun so accidently killing it could also be a thing. It was designed with the intent that it is safely introduced.
 ![This is the alt text for an image!](DocImages/fourthpart.png)
+This images the combination of moving platforms and acid is introduced. My thought process was how can i safely introduce acid, You can't because theres always someone messing up the easy jump. So i added this to the second section making it danagerous to the player. I thought it was too easy for the moving platforms to go side by side so i added a block with a spitter on it with a key above the spitter. Making so that killing the spitter jumping on that singular block,getting the key and jumping onto the next platform. I decided that would be more challenging and fun toward the player.
+
+The placement of my keys were also iterative. After completing a section i would reward the player with a key, but i thought it wasn't very rewarding to complete a tutorial section so i put it in the middle as a challenge like the star coins in mario and at the end as a reward for completining the carosel of moving platforms. The last key is discovered when found in the maze. When i first created the maze it was really boring and empty,so i added spikes to entrances you don't want to go to, to reward the player if they get that pattern.
+
+As i run out of time i placed the blocks in the game and if i liked it i went with it tweaking some things as i do it. But from the examples above i have changed some flaws that in see in my game and made changes to appeal them. I was inspired by carosels of moving platforms like in mario, where there are mutiple moving platforms one moving to where the other one was making a loop. This created a challenge to make them work as intend. I ended up adding a middle section with enemies and spikes to my carosel section because once you where near the bottom part of the carosel it was difficult to get back up without waiting. With futher iterative design the carosels could be more cleaner as it was easier to jump from the left platform to the top one rather that the right one to the bottom one. 
+
 
 
 
